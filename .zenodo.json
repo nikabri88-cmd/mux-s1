@@ -9,12 +9,6 @@
       "orcid": "0009-0005-4194-6059"
     }
   ],
-  "contributors": [
-    {
-      "name": "Claude (Anthropic)",
-      "type": "Other"
-    }
-  ],
   "license": "MIT",
   "keywords": [
     "binocular flash suppression",

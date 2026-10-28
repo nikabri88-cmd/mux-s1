@@ -10,7 +10,6 @@ authors:
     given-names: Julia
     affiliation: Siriona
     orcid: "https://orcid.org/0009-0005-4194-6059"
-  - name: "Claude (Anthropic, Opus 5.5)"
 date-released: 2026-10-28
 license: MIT
 references:
