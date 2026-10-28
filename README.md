@@ -81,8 +81,10 @@ refutation of B11 stays. B9 and B10 need hundreds of faces, so this subset canno
 
 ### What it means
 
-1. **The time scale is there.** The LLR autocorrelation gives D 64.5 ms on both samples against the
-   published 67 ms: alternation of the order of 15 times a second reproduces in the data.
+1. **The published estimate of D is closely matched.** The LLR autocorrelation with per-trial
+   centering gives D 64.5 ms on both samples against the published 67 ms. D is the fit parameter of
+   the autocorrelation; how it translates into a switching rate depends on the estimator (point 2)
+   and on the label statistics, which reproduce only on the repeated stimuli.
 2. **The rate depends on the estimator.** The ratio of D with a global mean to D with a per-trial
    mean is 3.6 on the repeated pairs (6.2 on the full set, where the fit hits its ceiling) against 1.7
    for the simulated Markov model. This establishes sensitivity to centering; the source of the
@@ -97,9 +99,9 @@ refutation of B11 stays. B9 and B10 need hundreds of faces, so this subset canno
    and the model class, so the remainder is attributed to neither alone.
 5. **The strict switching test gives a weak signal of the right shape** (B4 on E-repeat): the
    advantage of two rates appears only with enough label neurons.
-6. **Dwell times are more irregular than Markov** (B11, CV about 1.0 against the band 0.75–0.90). The
-   band was set on our processed Markov simulation, so it is specific to that simulation; label noise
-   raises the CV and is smaller on 30 pairs, though still present.
+6. **Dwell times are more irregular than in our processed Markov simulation** (B11, CV about 1.0
+   against the band 0.75–0.90 set on that simulation, so the band is specific to it). Label noise
+   raises the CV; it is smaller on 30 pairs, though still present.
 7. **The gain asymmetry is stronger in the early window** (B7): the stimulus history shows in it.
 
 In sum: the alternation is in the data, and its mechanism is open. The evidence for discrete
