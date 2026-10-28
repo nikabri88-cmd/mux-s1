@@ -1,0 +1,58 @@
+{
+  "title": "MUX-S1: a pre-registered check of discrete switching in the data of Hesse et al. (2026)",
+  "upload_type": "software",
+  "description": "Pre-registered study of the population dynamics behind the rapid alternation of conscious and suppressed stimulus representations reported by Hesse, Lanfranchi, McGrory, Shi, Engel and Tsao (bioRxiv 10.64898/2026.10.15.759299). Version 1.0 (18 October 2026): simulations of candidate latent dynamics and of the authors' analysis pipeline before the data release. Version 1.1 (pre-registered 21 October 2026, run 28 October 2026): the check of the 1.0 predictions against the released data (Zenodo record 23604909): reader of the released MATLAB files, frozen checks, primary, secondary and exploratory runs, deviation log and report. The four published archives with their SHA-256 hashes are included in archives/. Licensing: code is released under MIT; text, figures, results and digitized data are released under CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/). The authors' data are not redistributed, except the face feature maps in mux_s1/feature_maps.npz (CC BY 4.0, credit Hesse et al. 2026), converted with values unchanged.",
+  "creators": [
+    {
+      "name": "Ryzhkova, Julia",
+      "affiliation": "Siriona",
+      "orcid": "0009-0005-4194-6059"
+    }
+  ],
+  "contributors": [
+    {
+      "name": "Claude (Anthropic)",
+      "type": "Other"
+    }
+  ],
+  "license": "MIT",
+  "keywords": [
+    "binocular flash suppression",
+    "consciousness",
+    "face patches",
+    "macaque",
+    "population dynamics",
+    "hidden Markov model",
+    "pre-registration",
+    "reanalysis"
+  ],
+  "version": "1.1.0",
+  "language": "eng",
+  "related_identifiers": [
+    {
+      "identifier": "10.64898/2026.10.15.759299",
+      "relation": "references",
+      "resource_type": "publication-preprint",
+      "scheme": "doi"
+    },
+    {
+      "identifier": "https://zenodo.org/records/23604909",
+      "relation": "references",
+      "resource_type": "dataset",
+      "scheme": "url"
+    },
+    {
+      "identifier": "https://github.com/miou/conscious_suppressed_alternations",
+      "relation": "references",
+      "resource_type": "software",
+      "scheme": "url"
+    },
+    {
+      "identifier": "10.5281/zenodo.19627721",
+      "relation": "references",
+      "resource_type": "publication-report",
+      "scheme": "doi"
+    }
+  ],
+  "publication_date": "2026-10-28"
+}

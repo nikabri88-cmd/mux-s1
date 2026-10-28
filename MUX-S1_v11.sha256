@@ -1,0 +1,9 @@
+# MUX-S1 version 1.1, hashed 2026-10-21T18:17:18.477577+00:00
+# frozen: any change after publication is a deviation
+# mux_s1/adapters.py is NOT frozen: the DANDI reader is written on release day
+6d8badfca35855dfeba2b71f8fb9ac233562a5b0f0ee6c8e2e77a2b441b6cb61  MUX-S1_v11_prereg.md
+87ca52f245c38856e075b6c0e8bdc1e6d791297f94dc0e27785e05fca688f419  mux_s1/realdata.py
+eda8a716b193c27443010726fcaab9b5ef828de8b0377a8e5afc87a4fd9e5562  mux_s1/tests_v11.py
+dadcbd2327a23e2a93a8804e7548d4ac9a7f02a91aab94c3629b0a247bcc949b  verify_real.py
+bcfb1954c036105ac97cf1ec501d4b4d774a0fc804b6eb54d26966b2c98f13ad  hashes_v11.py
+0514405505923dcbff8b6fa75299555d03fe8597f52d7ade6b94292597c08de2  mux_s1/adapters.py   (not frozen)

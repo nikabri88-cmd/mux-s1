@@ -1,0 +1,325 @@
+{
+ "A": {
+  "A1_priming_state1": {
+   "value": 0.24483414390778582,
+   "target": 0.229,
+   "passed": true
+  },
+  "A2_acf_first_lag": {
+   "value": 0.48541272934208657,
+   "target": [
+    0.35,
+    0.39
+   ],
+   "passed": false
+  },
+  "A3_bino_state1": {
+   "value": 0.4921640304351309,
+   "target": 0.47,
+   "passed": true
+  },
+  "A4_dwell_by_binwidth": {
+   "value": {
+    "10": 60.0,
+    "20": 80.0,
+    "50": 100.0
+   },
+   "target": {
+    "5": 59.6,
+    "10": 62.1,
+    "20": 77.1,
+    "50": 110.8
+   },
+   "max_rel_dev": 0.09747292418772562,
+   "passed": true
+  }
+ },
+ "acf": {
+  "acf_a": [
+   1.0,
+   0.48541272934208657,
+   0.3523024403320206,
+   0.2772498544955969,
+   0.21808670891188467,
+   0.1627081978945814,
+   0.10986975856043725,
+   0.05854297438759479,
+   0.017397978226317334,
+   -0.014611943656697941,
+   -0.04111765841300022,
+   -0.06514212065471894,
+   -0.0817849327481544,
+   -0.09625960992450303,
+   -0.1055463045466641,
+   -0.11005826162848414,
+   -0.11196104089701886,
+   -0.11425764233287203,
+   -0.11132502659190263,
+   -0.10630478879794027,
+   -0.10087014405710794
+  ],
+  "acf_b": [
+   1.0,
+   0.6082652313194478,
+   0.5068378312313082,
+   0.4508273409450235,
+   0.4076165149554039,
+   0.3671914880489173,
+   0.3285389730095074,
+   0.2909384636713724,
+   0.26078666574995013,
+   0.237361338595576,
+   0.2181787372682989,
+   0.20054994528903164,
+   0.18851556213366186,
+   0.17816588490703977,
+   0.17147608542080864,
+   0.16775888204975342,
+   0.16594407879457665,
+   0.1641398898885456,
+   0.16650227713904903,
+   0.17034099693873114,
+   0.174319330244859
+  ],
+  "lags_ms": [
+   0.0,
+   10.0,
+   20.0,
+   30.0,
+   40.0,
+   50.0,
+   60.0,
+   70.0,
+   80.0,
+   90.0,
+   100.0,
+   110.0,
+   120.0,
+   130.0,
+   140.0,
+   150.0,
+   160.0,
+   170.0,
+   180.0,
+   190.0,
+   200.0
+  ],
+  "D_a_ms": 64.5,
+  "D_b_ms": 233.5,
+  "rho_a": 0.6806373460436692,
+  "zero_cross_ms": 86,
+  "acf_first_lag": 0.48541272934208657,
+  "mean_110_200": -0.10035098721793664
+ },
+ "dwell_10ms": {
+  "median_state1_ms": 60.0,
+  "median_state2_ms": 70.0,
+  "median_ms": 60.0,
+  "cv_edges_excluded": 0.9959346837375526,
+  "n_runs_edges_excluded": 41297
+ },
+ "B": {
+  "B1_dwell_over_D": {
+   "value": 0.9302325581395349,
+   "threshold": 1.15,
+   "reference_M0": 1.37,
+   "passed": true,
+   "refuted": false,
+   "conditional_on_signal": true,
+   "signal_ok": true
+  },
+  "B2_D_global_over_D_trial": {
+   "value": 3.62015503875969,
+   "threshold": 1.4,
+   "reference_M0": 1.6932330827067668,
+   "passed": true
+  },
+  "B3_acf_over_calibration": {
+   "value": 2.167021113134315,
+   "threshold": 1.25,
+   "acf_first_lag": 0.48541272934208657,
+   "reference_M0": 0.224,
+   "passed": true
+  },
+  "B4_label_threshold": {
+   "by_n_labels": {
+    "10": -0.000533445871576137,
+    "25": -0.00022297811215274687,
+    "50": -2.2485317526997418e-05,
+    "100": 0.0002682271582046441,
+    "half": 0.0005971473836719641
+   },
+   "monotone": true,
+   "small_n": -0.000533445871576137,
+   "full": 0.0005971473836719641,
+   "passed": true
+  },
+  "B5_fig3a_equal_noise": {
+   "value": 0.04635580855340212,
+   "unequal_noise": 0.16242767630273455,
+   "equal_noise": 0.04635580855340212,
+   "ratio": 0.2853935339627936,
+   "threshold": 0.5,
+   "reference": {
+    "M0": 0.0043,
+    "C1": -0.0132,
+    "M3": -0.0049
+   },
+   "switching": true,
+   "passed": true,
+   "conditional_on_signal": true,
+   "signal_ok": true
+  },
+  "B11_dwell_cv": {
+   "value": 0.9959346837375526,
+   "markov_band": [
+    0.75,
+    0.9
+   ],
+   "call": "continuous",
+   "reference": {
+    "M0": 0.811,
+    "M1": 0.623,
+    "M1b": 0.696,
+    "M2": 0.93,
+    "M3": 0.965
+   },
+   "passed": false,
+   "conditional_on_signal": true,
+   "signal_ok": true
+  },
+  "B12_overdispersion": {
+   "value": 1.137636933246245,
+   "threshold": 1.15,
+   "reference": {
+    "M0": 1.089,
+    "M6": 1.267
+   },
+   "heterogeneous": false,
+   "passed": true
+  }
+ },
+ "signal_ok": true,
+ "signal_value": 0.48541272934208657,
+ "n_sessions": 9,
+ "n_neurons_total": 6740,
+ "n_pairs_total": 270,
+ "gain": {
+  "available": false,
+  "skipped": [
+   {
+    "session": "session_251212_Alfie",
+    "n_faces": 60,
+    "n_features": 120
+   },
+   {
+    "session": "session_251218_Alfie",
+    "n_faces": 60,
+    "n_features": 120
+   },
+   {
+    "session": "session_260108_Mowgli",
+    "n_faces": 60,
+    "n_features": 120
+   },
+   {
+    "session": "session_260119_Alfie",
+    "n_faces": 60,
+    "n_features": 120
+   },
+   {
+    "session": "session_260205_Mowgli",
+    "n_faces": 60,
+    "n_features": 120
+   },
+   {
+    "session": "session_260218_Mowgli",
+    "n_faces": 60,
+    "n_features": 120
+   },
+   {
+    "session": "session_260225_Mowgli",
+    "n_faces": 60,
+    "n_features": 120
+   },
+   {
+    "session": "session_260309_Alfie",
+    "n_faces": 60,
+    "n_features": 120
+   },
+   {
+    "session": "session_260322_Alfie",
+    "n_faces": 60,
+    "n_features": 120
+   }
+  ],
+  "reason": "no session has enough faces for the coding model; B6-B10 skipped"
+ },
+ "source": "EXPLORATORY E-repeat (post hoc), cache variant 'repeat': /content/drive/MyDrive/mux_s1/cache/reader_32e5655e9f6c",
+ "seconds": 156.4,
+ "thresholds": {
+  "A1_tol": 0.03,
+  "A2_range": [
+   0.32,
+   0.42
+  ],
+  "A3_range": [
+   0.42,
+   0.55
+  ],
+  "A4_max_rel_dev": 0.25,
+  "B1_max": 1.15,
+  "B1_refuted_min": 1.35,
+  "B2_min": 1.4,
+  "B3_min": 1.25,
+  "B4_small_max": 0.0,
+  "B5_max_ratio": 0.5,
+  "B6_max": 0.56,
+  "B6_refuted_min": 0.62,
+  "B7_min": 0.05,
+  "B9_frac_min": 0.55,
+  "B9_ratio_min": 1.1,
+  "B10_rho_min": 0.3,
+  "B10_drop_min": 0.15,
+  "B11_markov": [
+   0.75,
+   0.9
+  ],
+  "B11_rhythm_max": 0.72,
+  "B11_continuous_min": 0.92,
+  "B12_max": 1.15,
+  "B12_hetero_min": 1.2,
+  "SIGNAL_MIN": 0.2
+ },
+ "published_targets": {
+  "priming_state1": 0.229,
+  "acf10": [
+   0.35,
+   0.39
+  ],
+  "bino_state1": 0.47,
+  "acf_D_ms": 67.0,
+  "dwell_median_5ms_ms": 59.0,
+  "dwell_by_binwidth": {
+   "5": 59.6,
+   "10": 62.1,
+   "20": 77.1,
+   "50": 110.8
+  },
+  "gain_ratio": 1.21,
+  "gain_r": 0.9,
+  "decoder_acc": 0.66,
+  "acf_tail": -0.058
+ },
+ "pairs_per_session": {
+  "session_251212_Alfie": 30,
+  "session_251218_Alfie": 30,
+  "session_260108_Mowgli": 30,
+  "session_260119_Alfie": 30,
+  "session_260205_Mowgli": 30,
+  "session_260218_Mowgli": 30,
+  "session_260225_Mowgli": 30,
+  "session_260309_Alfie": 30,
+  "session_260322_Alfie": 30
+ }
+}

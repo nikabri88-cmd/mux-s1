@@ -1,0 +1,130 @@
+/usr/local/lib/python3.13/dist-packages/scipy/stats/_axis_nan_policy.py:644: RuntimeWarning: Precision loss occurred in moment calculation due to catastrophic cancellation. This occurs when the data are nearly identical. Results may be unreliable.
+  res = hypotest_fun_out(*samples, axis=axis, **kwds)
+/usr/local/lib/python3.13/dist-packages/scipy/stats/_axis_nan_policy.py:644: RuntimeWarning: Precision loss occurred in moment calculation due to catastrophic cancellation. This occurs when the data are nearly identical. Results may be unreliable.
+  res = hypotest_fun_out(*samples, axis=axis, **kwds)
+22:44:32 I C1_averaging 0 173.7 s
+22:44:35 I C2_uncoordinated 0 177.1 s
+/usr/local/lib/python3.13/dist-packages/scipy/stats/_axis_nan_policy.py:644: RuntimeWarning: Precision loss occurred in moment calculation due to catastrophic cancellation. This occurs when the data are nearly identical. Results may be unreliable.
+  res = hypotest_fun_out(*samples, axis=axis, **kwds)
+/usr/local/lib/python3.13/dist-packages/scipy/stats/_axis_nan_policy.py:644: RuntimeWarning: Precision loss occurred in moment calculation due to catastrophic cancellation. This occurs when the data are nearly identical. Results may be unreliable.
+  res = hypotest_fun_out(*samples, axis=axis, **kwds)
+22:47:12 I M0_markov 0 159.4 s
+22:47:12 I M1_rhythm 0 156.6 s
+/usr/local/lib/python3.13/dist-packages/scipy/stats/_axis_nan_policy.py:644: RuntimeWarning: Precision loss occurred in moment calculation due to catastrophic cancellation. This occurs when the data are nearly identical. Results may be unreliable.
+  res = hypotest_fun_out(*samples, axis=axis, **kwds)
+/usr/local/lib/python3.13/dist-packages/scipy/stats/_axis_nan_policy.py:644: RuntimeWarning: Precision loss occurred in moment calculation due to catastrophic cancellation. This occurs when the data are nearly identical. Results may be unreliable.
+  res = hypotest_fun_out(*samples, axis=axis, **kwds)
+22:50:04 I M2_cont_unimodal 0 172.4 s
+22:50:08 I M3_cont_bimodal 0 175.6 s
+/usr/local/lib/python3.13/dist-packages/scipy/stats/_axis_nan_policy.py:644: RuntimeWarning: Precision loss occurred in moment calculation due to catastrophic cancellation. This occurs when the data are nearly identical. Results may be unreliable.
+  res = hypotest_fun_out(*samples, axis=axis, **kwds)
+/usr/local/lib/python3.13/dist-packages/scipy/stats/_axis_nan_policy.py:644: RuntimeWarning: Precision loss occurred in moment calculation due to catastrophic cancellation. This occurs when the data are nearly identical. Results may be unreliable.
+  res = hypotest_fun_out(*samples, axis=axis, **kwds)
+22:52:50 I M4_adaptation 0 166.6 s
+22:52:53 I M4c_adaptation_tuning 0 164.8 s
+/usr/local/lib/python3.13/dist-packages/scipy/stats/_axis_nan_policy.py:644: RuntimeWarning: Precision loss occurred in moment calculation due to catastrophic cancellation. This occurs when the data are nearly identical. Results may be unreliable.
+  res = hypotest_fun_out(*samples, axis=axis, **kwds)
+/usr/local/lib/python3.13/dist-packages/scipy/stats/_axis_nan_policy.py:644: RuntimeWarning: Precision loss occurred in moment calculation due to catastrophic cancellation. This occurs when the data are nearly identical. Results may be unreliable.
+  res = hypotest_fun_out(*samples, axis=axis, **kwds)
+22:55:41 I M5_conscious_gain 0 171.0 s
+22:55:42 I C1_averaging 1 169.9 s
+/usr/local/lib/python3.13/dist-packages/scipy/stats/_axis_nan_policy.py:644: RuntimeWarning: Precision loss occurred in moment calculation due to catastrophic cancellation. This occurs when the data are nearly identical. Results may be unreliable.
+  res = hypotest_fun_out(*samples, axis=axis, **kwds)
+/usr/local/lib/python3.13/dist-packages/scipy/stats/_axis_nan_policy.py:644: RuntimeWarning: Precision loss occurred in moment calculation due to catastrophic cancellation. This occurs when the data are nearly identical. Results may be unreliable.
+  res = hypotest_fun_out(*samples, axis=axis, **kwds)
+22:58:38 I M0_markov 1 175.2 s
+22:58:38 I C2_uncoordinated 1 176.4 s
+/usr/local/lib/python3.13/dist-packages/scipy/stats/_axis_nan_policy.py:644: RuntimeWarning: Precision loss occurred in moment calculation due to catastrophic cancellation. This occurs when the data are nearly identical. Results may be unreliable.
+  res = hypotest_fun_out(*samples, axis=axis, **kwds)
+/usr/local/lib/python3.13/dist-packages/scipy/stats/_axis_nan_policy.py:644: RuntimeWarning: Precision loss occurred in moment calculation due to catastrophic cancellation. This occurs when the data are nearly identical. Results may be unreliable.
+  res = hypotest_fun_out(*samples, axis=axis, **kwds)
+23:01:05 I M1_rhythm 1 147.2 s
+23:01:24 I M2_cont_unimodal 1 166.3 s
+/usr/local/lib/python3.13/dist-packages/scipy/stats/_axis_nan_policy.py:644: RuntimeWarning: Precision loss occurred in moment calculation due to catastrophic cancellation. This occurs when the data are nearly identical. Results may be unreliable.
+  res = hypotest_fun_out(*samples, axis=axis, **kwds)
+/usr/local/lib/python3.13/dist-packages/scipy/stats/_axis_nan_policy.py:644: RuntimeWarning: Precision loss occurred in moment calculation due to catastrophic cancellation. This occurs when the data are nearly identical. Results may be unreliable.
+  res = hypotest_fun_out(*samples, axis=axis, **kwds)
+23:03:57 I M3_cont_bimodal 1 172.2 s
+23:03:59 I M4_adaptation 1 154.7 s
+/usr/local/lib/python3.13/dist-packages/scipy/stats/_axis_nan_policy.py:644: RuntimeWarning: Precision loss occurred in moment calculation due to catastrophic cancellation. This occurs when the data are nearly identical. Results may be unreliable.
+  res = hypotest_fun_out(*samples, axis=axis, **kwds)
+/usr/local/lib/python3.13/dist-packages/scipy/stats/_axis_nan_policy.py:644: RuntimeWarning: Precision loss occurred in moment calculation due to catastrophic cancellation. This occurs when the data are nearly identical. Results may be unreliable.
+  res = hypotest_fun_out(*samples, axis=axis, **kwds)
+23:06:54 I M4c_adaptation_tuning 1 177.0 s
+23:07:02 I M5_conscious_gain 1 183.3 s
+/usr/local/lib/python3.13/dist-packages/scipy/stats/_axis_nan_policy.py:644: RuntimeWarning: Precision loss occurred in moment calculation due to catastrophic cancellation. This occurs when the data are nearly identical. Results may be unreliable.
+  res = hypotest_fun_out(*samples, axis=axis, **kwds)
+/usr/local/lib/python3.13/dist-packages/scipy/stats/_axis_nan_policy.py:644: RuntimeWarning: Precision loss occurred in moment calculation due to catastrophic cancellation. This occurs when the data are nearly identical. Results may be unreliable.
+  res = hypotest_fun_out(*samples, axis=axis, **kwds)
+23:09:27 I C1_averaging 2 153.2 s
+23:09:44 I C2_uncoordinated 2 162.1 s
+/usr/local/lib/python3.13/dist-packages/scipy/stats/_axis_nan_policy.py:644: RuntimeWarning: Precision loss occurred in moment calculation due to catastrophic cancellation. This occurs when the data are nearly identical. Results may be unreliable.
+  res = hypotest_fun_out(*samples, axis=axis, **kwds)
+/usr/local/lib/python3.13/dist-packages/scipy/stats/_axis_nan_policy.py:644: RuntimeWarning: Precision loss occurred in moment calculation due to catastrophic cancellation. This occurs when the data are nearly identical. Results may be unreliable.
+  res = hypotest_fun_out(*samples, axis=axis, **kwds)
+23:11:58 I M0_markov 2 151.0 s
+23:12:26 I M1_rhythm 2 161.3 s
+/usr/local/lib/python3.13/dist-packages/scipy/stats/_axis_nan_policy.py:644: RuntimeWarning: Precision loss occurred in moment calculation due to catastrophic cancellation. This occurs when the data are nearly identical. Results may be unreliable.
+  res = hypotest_fun_out(*samples, axis=axis, **kwds)
+/usr/local/lib/python3.13/dist-packages/scipy/stats/_axis_nan_policy.py:644: RuntimeWarning: Precision loss occurred in moment calculation due to catastrophic cancellation. This occurs when the data are nearly identical. Results may be unreliable.
+  res = hypotest_fun_out(*samples, axis=axis, **kwds)
+23:14:33 I M2_cont_unimodal 2 154.8 s
+23:15:12 I M3_cont_bimodal 2 166.6 s
+/usr/local/lib/python3.13/dist-packages/scipy/stats/_axis_nan_policy.py:644: RuntimeWarning: Precision loss occurred in moment calculation due to catastrophic cancellation. This occurs when the data are nearly identical. Results may be unreliable.
+  res = hypotest_fun_out(*samples, axis=axis, **kwds)
+/usr/local/lib/python3.13/dist-packages/scipy/stats/_axis_nan_policy.py:644: RuntimeWarning: Precision loss occurred in moment calculation due to catastrophic cancellation. This occurs when the data are nearly identical. Results may be unreliable.
+  res = hypotest_fun_out(*samples, axis=axis, **kwds)
+23:16:59 I M4_adaptation 2 145.4 s
+23:17:46 I M4c_adaptation_tuning 2 153.7 s
+/usr/local/lib/python3.13/dist-packages/scipy/stats/_axis_nan_policy.py:644: RuntimeWarning: Precision loss occurred in moment calculation due to catastrophic cancellation. This occurs when the data are nearly identical. Results may be unreliable.
+  res = hypotest_fun_out(*samples, axis=axis, **kwds)
+/usr/local/lib/python3.13/dist-packages/scipy/stats/_axis_nan_policy.py:644: RuntimeWarning: Precision loss occurred in moment calculation due to catastrophic cancellation. This occurs when the data are nearly identical. Results may be unreliable.
+  res = hypotest_fun_out(*samples, axis=axis, **kwds)
+23:19:29 I M5_conscious_gain 2 150.4 s
+23:20:16 I C1_averaging 3 150.5 s
+/usr/local/lib/python3.13/dist-packages/scipy/stats/_axis_nan_policy.py:644: RuntimeWarning: Precision loss occurred in moment calculation due to catastrophic cancellation. This occurs when the data are nearly identical. Results may be unreliable.
+  res = hypotest_fun_out(*samples, axis=axis, **kwds)
+/usr/local/lib/python3.13/dist-packages/scipy/stats/_axis_nan_policy.py:644: RuntimeWarning: Precision loss occurred in moment calculation due to catastrophic cancellation. This occurs when the data are nearly identical. Results may be unreliable.
+  res = hypotest_fun_out(*samples, axis=axis, **kwds)
+23:22:00 I C2_uncoordinated 3 150.8 s
+23:22:53 I M0_markov 3 156.6 s
+/usr/local/lib/python3.13/dist-packages/scipy/stats/_axis_nan_policy.py:644: RuntimeWarning: Precision loss occurred in moment calculation due to catastrophic cancellation. This occurs when the data are nearly identical. Results may be unreliable.
+  res = hypotest_fun_out(*samples, axis=axis, **kwds)
+23:24:31 I M1_rhythm 3 151.1 s
+/usr/local/lib/python3.13/dist-packages/scipy/stats/_axis_nan_policy.py:644: RuntimeWarning: Precision loss occurred in moment calculation due to catastrophic cancellation. This occurs when the data are nearly identical. Results may be unreliable.
+  res = hypotest_fun_out(*samples, axis=axis, **kwds)
+23:25:40 I M2_cont_unimodal 3 167.1 s
+/usr/local/lib/python3.13/dist-packages/scipy/stats/_axis_nan_policy.py:644: RuntimeWarning: Precision loss occurred in moment calculation due to catastrophic cancellation. This occurs when the data are nearly identical. Results may be unreliable.
+  res = hypotest_fun_out(*samples, axis=axis, **kwds)
+/usr/local/lib/python3.13/dist-packages/scipy/stats/_axis_nan_policy.py:644: RuntimeWarning: Precision loss occurred in moment calculation due to catastrophic cancellation. This occurs when the data are nearly identical. Results may be unreliable.
+  res = hypotest_fun_out(*samples, axis=axis, **kwds)
+23:27:17 I M3_cont_bimodal 3 166.3 s
+23:28:12 I M4_adaptation 3 151.9 s
+/usr/local/lib/python3.13/dist-packages/scipy/stats/_axis_nan_policy.py:644: RuntimeWarning: Precision loss occurred in moment calculation due to catastrophic cancellation. This occurs when the data are nearly identical. Results may be unreliable.
+  res = hypotest_fun_out(*samples, axis=axis, **kwds)
+/usr/local/lib/python3.13/dist-packages/scipy/stats/_axis_nan_policy.py:644: RuntimeWarning: Precision loss occurred in moment calculation due to catastrophic cancellation. This occurs when the data are nearly identical. Results may be unreliable.
+  res = hypotest_fun_out(*samples, axis=axis, **kwds)
+23:29:55 I M5_conscious_gain 3 157.9 s
+23:30:48 I C1_averaging 4 155.5 s
+/usr/local/lib/python3.13/dist-packages/scipy/stats/_axis_nan_policy.py:644: RuntimeWarning: Precision loss occurred in moment calculation due to catastrophic cancellation. This occurs when the data are nearly identical. Results may be unreliable.
+  res = hypotest_fun_out(*samples, axis=axis, **kwds)
+/usr/local/lib/python3.13/dist-packages/scipy/stats/_axis_nan_policy.py:644: RuntimeWarning: Precision loss occurred in moment calculation due to catastrophic cancellation. This occurs when the data are nearly identical. Results may be unreliable.
+  res = hypotest_fun_out(*samples, axis=axis, **kwds)
+23:32:31 I C2_uncoordinated 4 156.2 s
+23:33:30 I M0_markov 4 162.9 s
+/usr/local/lib/python3.13/dist-packages/scipy/stats/_axis_nan_policy.py:644: RuntimeWarning: Precision loss occurred in moment calculation due to catastrophic cancellation. This occurs when the data are nearly identical. Results may be unreliable.
+  res = hypotest_fun_out(*samples, axis=axis, **kwds)
+23:35:06 I M1_rhythm 4 154.6 s
+/usr/local/lib/python3.13/dist-packages/scipy/stats/_axis_nan_policy.py:644: RuntimeWarning: Precision loss occurred in moment calculation due to catastrophic cancellation. This occurs when the data are nearly identical. Results may be unreliable.
+  res = hypotest_fun_out(*samples, axis=axis, **kwds)
+23:36:21 I M2_cont_unimodal 4 170.2 s
+/usr/local/lib/python3.13/dist-packages/scipy/stats/_axis_nan_policy.py:644: RuntimeWarning: Precision loss occurred in moment calculation due to catastrophic cancellation. This occurs when the data are nearly identical. Results may be unreliable.
+  res = hypotest_fun_out(*samples, axis=axis, **kwds)
+/usr/local/lib/python3.13/dist-packages/scipy/stats/_axis_nan_policy.py:644: RuntimeWarning: Precision loss occurred in moment calculation due to catastrophic cancellation. This occurs when the data are nearly identical. Results may be unreliable.
+  res = hypotest_fun_out(*samples, axis=axis, **kwds)
+23:37:50 I M3_cont_bimodal 4 164.5 s
+23:38:47 I M4_adaptation 4 146.0 s
+/usr/local/lib/python3.13/dist-packages/scipy/stats/_axis_nan_policy.py:644: RuntimeWarning: Precision loss occurred in moment calculation due to catastrophic cancellation. This occurs when the data are nearly identical. Results may be unreliable.
+  res = hypotest_fun_out(*samples, axis=axis, **kwds)
+23:40:07 I M5_conscious_gain 4 136.2 s
+done I

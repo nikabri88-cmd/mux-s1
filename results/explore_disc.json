@@ -1,0 +1,66 @@
+[
+ {
+  "model": "M0_markov",
+  "aligned": false,
+  "seed": 0,
+  "D1": 10.154997928104054,
+  "D1_fit": -1.1837871536416442,
+  "x0_median": 2.0
+ },
+ {
+  "model": "M0_markov",
+  "aligned": true,
+  "seed": 0,
+  "D1": 8.000047407491147,
+  "D1_fit": -1.9304936513750866,
+  "x0_median": 2.0
+ },
+ {
+  "model": "M2_cont_unimodal",
+  "aligned": false,
+  "seed": 0,
+  "D1": 48.457420409231915,
+  "D1_fit": 0.19436296095589434,
+  "x0_median": 0.5
+ },
+ {
+  "model": "M3_cont_bimodal",
+  "aligned": false,
+  "seed": 0,
+  "D1": 35.39246577783123,
+  "D1_fit": 1.3864914165303575,
+  "x0_median": 1.0
+ },
+ {
+  "model": "M0_markov",
+  "aligned": true,
+  "seed": 1,
+  "D1": 7.821335643452866,
+  "D1_fit": -1.7363585499040262,
+  "x0_median": 2.0
+ },
+ {
+  "model": "M0_markov",
+  "aligned": false,
+  "seed": 1,
+  "D1": 9.605481538377406,
+  "D1_fit": -1.3061390806561701,
+  "x0_median": 2.0
+ },
+ {
+  "model": "M3_cont_bimodal",
+  "aligned": false,
+  "seed": 1,
+  "D1": 33.235118623499815,
+  "D1_fit": 1.1296423635356505,
+  "x0_median": 1.0
+ },
+ {
+  "model": "M2_cont_unimodal",
+  "aligned": false,
+  "seed": 1,
+  "D1": 48.78120159265454,
+  "D1_fit": 0.20246139290681556,
+  "x0_median": 0.5
+ }
+]

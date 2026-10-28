@@ -1,0 +1,5 @@
+900922ae829f3ba07f0b718a3480d54a4760165560143531a9e46b53f654b272  results/calibration.json  2026-10-17T22:41:27Z
+
+2026-10-18T00:51:53Z
+8075759d52fdd97f5c15791e4bc92d63739ea0d376052b9dd6cefeff8d370189  calibrate.py
+calibrate.py as edited at 22:26:15Z (deviation 1: kappa grid extended, +-2 pp check and failure log added); the version in MUX-S1_prereg_manifest.txt (ddfe9d5c...) is the pre-deviation one

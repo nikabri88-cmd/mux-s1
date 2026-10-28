@@ -1,0 +1,9 @@
+00:44:08 {'model': 'M0_markov', 'aligned': False, 'seed': 0, 'D1': 10.154997928104054, 'D1_fit': -1.1837871536416442, 'x0_median': 2.0} 29.4 s
+00:44:08 {'model': 'M0_markov', 'aligned': True, 'seed': 0, 'D1': 8.000047407491147, 'D1_fit': -1.9304936513750866, 'x0_median': 2.0} 29.6 s
+00:44:41 {'model': 'M2_cont_unimodal', 'aligned': False, 'seed': 0, 'D1': 48.457420409231915, 'D1_fit': 0.19436296095589434, 'x0_median': 0.5} 33.3 s
+00:44:41 {'model': 'M3_cont_bimodal', 'aligned': False, 'seed': 0, 'D1': 35.39246577783123, 'D1_fit': 1.3864914165303575, 'x0_median': 1.0} 33.4 s
+00:45:11 {'model': 'M0_markov', 'aligned': True, 'seed': 1, 'D1': 7.821335643452866, 'D1_fit': -1.7363585499040262, 'x0_median': 2.0} 30.0 s
+00:45:11 {'model': 'M0_markov', 'aligned': False, 'seed': 1, 'D1': 9.605481538377406, 'D1_fit': -1.3061390806561701, 'x0_median': 2.0} 30.3 s
+00:45:44 {'model': 'M3_cont_bimodal', 'aligned': False, 'seed': 1, 'D1': 33.235118623499815, 'D1_fit': 1.1296423635356505, 'x0_median': 1.0} 32.6 s
+00:45:44 {'model': 'M2_cont_unimodal', 'aligned': False, 'seed': 1, 'D1': 48.78120159265454, 'D1_fit': 0.20246139290681556, 'x0_median': 0.5} 33.1 s
+done explore_disc

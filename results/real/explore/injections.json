@@ -1,0 +1,73 @@
+{
+ "session_250504_Mowgli": {
+  "comments": [
+   "04-May-2025 19:50:30:521 Injected 3 ml saline",
+   "04-May-2025 20:10:48:790 Injected 3 mg psilocybin"
+  ],
+  "injection_comments": [
+   "04-May-2025 19:50:30:521 Injected 3 ml saline",
+   "04-May-2025 20:10:48:790 Injected 3 mg psilocybin"
+  ],
+  "n_trials_file": 795,
+  "excluded_after_injection": 2,
+  "comment_index_note": {
+   "empty": 0,
+   "multi": 0
+  },
+  "in_FACE1500": false
+ },
+ "session_250518_Mowgli": {
+  "comments": [
+   "18-May-2025 23:28:52:089 Injected 3 ml saline IM",
+   "18-May-2025 23:55:32:057 Injected 3 mg psilocybin IM"
+  ],
+  "injection_comments": [
+   "18-May-2025 23:28:52:089 Injected 3 ml saline IM",
+   "18-May-2025 23:55:32:057 Injected 3 mg psilocybin IM"
+  ],
+  "n_trials_file": 1232,
+  "excluded_after_injection": 0,
+  "comment_index_note": {
+   "empty": 2,
+   "multi": 0
+  },
+  "in_FACE1500": false
+ },
+ "session_251212_Alfie": {
+  "comments": [
+   "12-Dec-2025 22:40:22:019 Darkness sober",
+   "12-Dec-2025 23:07:47:025 Injected 3 ml saline",
+   "12-Dec-2025 23:22:00:362 ",
+   "12-Dec-2025 23:52:57:207 Injected 3 mg psilocybin"
+  ],
+  "injection_comments": [
+   "12-Dec-2025 23:07:47:025 Injected 3 ml saline",
+   "12-Dec-2025 23:52:57:207 Injected 3 mg psilocybin"
+  ],
+  "n_trials_file": 13101,
+  "excluded_after_injection": 0,
+  "comment_index_note": {
+   "empty": 4,
+   "multi": 0
+  },
+  "in_FACE1500": true
+ },
+ "session_251218_Alfie": {
+  "comments": [
+   "18-Dec-2025 14:26:56:230 FOB",
+   "18-Dec-2025 21:01:58:761 Injected 3 ml saline",
+   "18-Dec-2025 21:50:51:720 Injected 3 mg psilocybin IM"
+  ],
+  "injection_comments": [
+   "18-Dec-2025 21:01:58:761 Injected 3 ml saline",
+   "18-Dec-2025 21:50:51:720 Injected 3 mg psilocybin IM"
+  ],
+  "n_trials_file": 17211,
+  "excluded_after_injection": 0,
+  "comment_index_note": {
+   "empty": 2,
+   "multi": 0
+  },
+  "in_FACE1500": true
+ }
+}

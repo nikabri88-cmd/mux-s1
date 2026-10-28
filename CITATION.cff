@@ -1,0 +1,55 @@
+cff-version: 1.2.0
+message: "If you use this work, please cite it as below."
+title: "MUX-S1: what shapes of population dynamics are consistent with the rapid conscious/suppressed alternation reported by Hesse et al. (2026)"
+type: software
+version: "1.1.0"
+repository-code: "https://github.com/nikabri88-cmd/mux-s1"
+authors:
+  - family-names: Ryzhkova
+    given-names: Julia
+    affiliation: Siriona
+    orcid: "https://orcid.org/0009-0005-4194-6059"
+  - name: "Claude (Anthropic, Opus 5.5)"
+date-released: 2026-10-28
+license: MIT
+references:
+  - type: article
+    title: "Rapid alternation of conscious and suppressed stimulus representations in the primate brain"
+    authors:
+      - family-names: Hesse
+        given-names: Janis K.
+      - family-names: Lanfranchi
+        given-names: Frank F.
+      - family-names: McGrory
+        given-names: Conor
+      - family-names: Shi
+        given-names: Yuelin
+      - family-names: Engel
+        given-names: Tatiana A.
+      - family-names: Tsao
+        given-names: Doris Y.
+    doi: "10.64898/2026.10.15.759299"
+    year: 2026
+  - type: data
+    title: "Data for: Rapid alternation of conscious and suppressed stimulus representations in the primate brain"
+    authors:
+      - family-names: Hesse
+        given-names: Janis K.
+      - family-names: Lanfranchi
+        given-names: Frank F.
+      - family-names: McGrory
+        given-names: Conor
+      - family-names: Shi
+        given-names: Yuelin
+      - family-names: Engel
+        given-names: Tatiana A.
+      - family-names: Tsao
+        given-names: Doris Y.
+    url: "https://zenodo.org/records/23604909"
+    year: 2026
+  - type: report
+    title: "Theory of Variability, v2.7"
+    authors:
+      - family-names: Ryzhkova
+        given-names: Julia
+    doi: "10.5281/zenodo.19627721"

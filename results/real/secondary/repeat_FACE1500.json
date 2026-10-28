@@ -1,0 +1,40 @@
+{
+ "A": {
+  "A1_priming_state1": {
+   "value": 0.24483414390778582,
+   "target": 0.229,
+   "passed": true
+  },
+  "A2_acf_first_lag": {
+   "value": 0.48541272934208657,
+   "target": [
+    0.35,
+    0.39
+   ],
+   "passed": false
+  },
+  "A3_bino_state1": {
+   "value": 0.4921640304351309,
+   "target": 0.47,
+   "passed": true
+  },
+  "A4_dwell_by_binwidth": {
+   "value": {
+    "10": 60.0,
+    "20": 80.0,
+    "50": 100.0
+   },
+   "target": {
+    "5": 59.6,
+    "10": 62.1,
+    "20": 77.1,
+    "50": 110.8
+   },
+   "max_rel_dev": 0.09747292418772562,
+   "passed": true
+  }
+ },
+ "acf_first_lag": 0.48541272934208657,
+ "D_a_ms": 64.5,
+ "seconds": 31.8
+}

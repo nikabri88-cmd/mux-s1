@@ -1,0 +1,25 @@
+{
+ "kappa": 0.13915092914337512,
+ "timescale": {
+  "telegraph": 114.0,
+  "gamma6": 157.36363636363637,
+  "gamma3": 158.88888888888889,
+  "ou1": 97.10526315789474,
+  "ou25": 73.33333333333333,
+  "ring": 113.21038251366122
+ },
+ "model_timescale": {
+  "M0_markov": 114.0,
+  "M4_adaptation": 114.0,
+  "M4c_adaptation_tuning": 114.0,
+  "M5_conscious_gain": 114.0,
+  "M6_heterogeneous": 114.0,
+  "C2_uncoordinated": 114.0,
+  "C1_averaging": 114.0,
+  "M1_rhythm": 157.36363636363637,
+  "M1b_rhythm_k3": 158.88888888888889,
+  "M2_cont_unimodal": 97.10526315789474,
+  "M3_cont_bimodal": 73.33333333333333,
+  "M7_ring": 113.21038251366122
+ }
+}

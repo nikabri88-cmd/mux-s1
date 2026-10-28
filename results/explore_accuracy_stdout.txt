@@ -1,0 +1,6 @@
+M0_markov 1.0 {'llr_all': 0.7, 'hmm_all': 0.83, 'hmm_half': 0.77}
+M0_markov 1.5 {'llr_all': 0.791, 'hmm_all': 0.905, 'hmm_half': 0.854}
+M1_rhythm 1.0 {'llr_all': 0.711, 'hmm_all': 0.851, 'hmm_half': 0.774}
+M1_rhythm 1.5 {'llr_all': 0.793, 'hmm_all': 0.919, 'hmm_half': 0.86}
+M3_cont_bimodal 1.0 {'llr_all': 0.638, 'hmm_all': 0.718, 'hmm_half': 0.687}
+M3_cont_bimodal 1.5 {'llr_all': 0.72, 'hmm_all': 0.813, 'hmm_half': 0.768}

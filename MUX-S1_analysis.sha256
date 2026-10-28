@@ -1,0 +1,20 @@
+2026-10-17T23:23:49Z
+94ca997bb2a605036a5b3ea9551d2e7f068b63ed806440a2c1d84122fafae01a  analyze.py
+115b9dc921a617568c55bbd317cf8daa8402ec53735793a60522c24ad9cef71d  explore_snr.py
+analyze.py written during the part I run (after 12 of 43 part I datasets were seen), before any part II output existed; explore_snr.py is a post hoc exploratory addition (E3), edited before any E3 output existed
+2026-10-17T23:28:13Z
+973ca42c822abda37eac867f40dc20faec74172271dec7ed7f3b1a8141baa1a0  analyze_explore.py
+6e9a1d24f702bd33f17546da1bdde69fac26d41438158d9c5fce195026eb0a65  explore_accuracy.py
+E3 summary script and E3b label-accuracy script (post hoc exploratory), written before any E3/E3b output existed
+2026-10-17T23:33:27Z
+f71aeb586a2f9b3b4ba3abc987a1b9e4429f0e398dc1c6d00334b67ebfc2a05a  explore_snr.py
+explore_snr.py: M4_adaptation added to the model list before any E3 output existed
+2026-10-17T23:47:25Z
+2cccc2f339e4ff86ad70e3fd4004a8774030446d1126dde6ab6b2ef7104fc8cd  explore_k4.py
+E4 scale-corrected kappa4 (post hoc exploratory), written after the first part II datasets showed the pooled D2 far from -2 for jumps; no E4 output existed
+2026-10-17T23:50:19Z
+a620727e66f96692e5c97cd3c6a53a593ffbb136d38d88b972df6b33a6ea63a5  explore_disc.py
+E5 D1 mechanism check and fitted-level discrete model (post hoc exploratory); a 2-session smoke test was run before freezing (printed D1 values for M0, M0 aligned, M2, M3)
+
+2026-10-18T00:52:00Z
+CORRECTION: the first note above is wrong about when analyze.py was written. Its modification time is 2026-10-17T22:25:41Z, after the pre-registration freeze (22:24:18Z) and before any calibration or part I output; it has not changed since, and its hash was first recorded at 23:21:17Z, when 28 part I datasets existed.

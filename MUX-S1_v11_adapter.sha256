@@ -1,0 +1,83 @@
+# MUX-S1 1.1, адаптер и журнал отклонений, 2026-10-27T23:28:40.904865+00:00 (UTC)
+# карта полей MAT_FIELDS ещё пуста: это состояние слепой механики
+# хэш после заполнения карты вносится отклонением 5 и публикуется до зачётного чтения
+# MUX-S1_v11.sha256 не трогать: это опубликованная запись от 21.10
+cf260d718c5e07db966fc60055daecdb6ff67992da650b78c9cbf7a11e1f93c0  mux_s1/adapters.py
+1c2b651822fe719ff0f218d41022ffc2959e5f6c32934c1eed5796c6c552a56f  mux_s1/tests_adapter.py
+d84bf26c18d12081dc7c90247c15d645fa0feb86fc32e169fd53135894806686  MUX-S1_v11_deviations.md
+
+# ---- 2026-10-28T00:13:14.867525+00:00 (UTC): читатель выпуска по правилам авторов, до шага 2 ----
+# шаг 2 печатает только сантехнику; A и B не считаются
+# замороженное без изменений: realdata.py 87ca52f2..., core.py 116c27ff... (манифест 1.0)
+d49b8a173ef19799a63cbbc4ca9ed2b174c60a3df9c1540059c1084b8d1ba5bd  mux_s1/adapters.py
+4e5420a0d514568cb376e4da2cf8645d3cba966104f3d1d1bccbd7c5f7553ae5  mux_s1/hesse_reader.py
+ac024a85cc6e208a8ccac0fc1a0bc2b51db4aa970f62b281f4b12ef9e936d2e1  mux_s1/tests_hesse.py
+1c2b651822fe719ff0f218d41022ffc2959e5f6c32934c1eed5796c6c552a56f  mux_s1/tests_adapter.py
+897cb9e2f6dc4269c6ed6f92599b98e5cf0365c70b193e119815e3184931e27d  mux_s1_step2_code.zip
+adca97a8e0c95b50bd15d45a4f99413f2360d8573444ca9f906cba75c692b195  MUX_S1_step1_structure.ipynb
+933b15084d6671f48c317fc0da402c083350ca2764d7c69720441d6691d3a81b  MUX_S1_step2_read.ipynb
+5610a9491ab3bcd8ce416d317439cea7b1af2224397c8b4fee5cb069bb67c9ee  MUX-S1_v11_deviations.md
+
+# ---- 2026-10-28T00:58:32.180233+00:00 (UTC): исправление 2 (индекс комментария), шаг 2 перезапускается ----
+32e5655e9f6c9a1aedc2af9dbc664cd67e7a788abc760a6fe74014aa56ceb0c9  mux_s1/hesse_reader.py
+ac0f7897c28b4eaa97f63ac12184b8414195cb4aec8c3adaf1d7934988f6fce1  mux_s1/tests_hesse.py
+02404ff2e4202a5707523bd37aa4f2d810ea6886f2030862bad4cd633e5f3354  mux_s1_step2_code.zip
+2cff6a43f14c9fc8a738a3221e293ebc5ffb9d4d872d3040cabd30bd01a9da38  MUX_S1_step2_read.ipynb
+0c48d669fe59e4506d32256a843e6e12c5df33c131e66e6c95a223446fc2ebc1  MUX-S1_v11_deviations.md
+# ---- 2026-10-28T00:58:56.336840+00:00 (UTC): блокнот шага 2 сам просит новый zip и перезагружает модули; код не менялся ----
+b8975ac391c40a680e43a2bf17f79e8f298bd6acb79500977da338251bbd2428  MUX_S1_step2_read.ipynb
+
+# ---- 2026-10-28T10:45:16.727262+00:00 (UTC): признаки лиц (шаг 2b); читатель hesse_reader.py не менялся (32e5655e...) ----
+137b6911f9f580186f963b35d37394c8ec95ffb26125440fbd1de831b392d2fe  mux_s1/adapters.py
+419448b5de6e1ea750afb0606f964e7f8add7c74f435ab499e0c4a645c6cccea  mux_s1/faces.py
+3e22b8977e9416242fbccd1c634e80e77cbf3a2e2159a7a7a585ab3dfb988dcc  mux_s1/tests_faces.py
+53b180569f18e3226878d8d262fd05861a9efa9af6dcb94d4c68f633a291e543  mux_s1_step2b_code.zip
+6af6f13f5a77fd75e651092b691f18536d170b3e8f84c7bc15b32d24d8973d9c  MUX_S1_step2b_faces.ipynb
+44c2ba38c1f6460793e5a118b28a9b2988b5b2e80b048aa5e96e3e1dd4643b95  MUX-S1_v11_deviations.md
+
+# ---- 2026-10-28T11:12:25.958041+00:00 (UTC): шаг 2b без mat-io в Colab; признаки авторов переведены в feature_maps.npz ----
+# исходники: liang_2000 1a95e705ae677114..., liang_2500 b97aaec284bf3c2a... (sha256 файлов авторов)
+2c2773ba27de3696668aab0b3c418957140ae79bfafd64815faed0a364bed44c  mux_s1/faces.py
+816d6621771548e4968298ef7f627b62adba830ef02c6ce3448b95f92b0bb86d  mux_s1/feature_maps.npz
+43d5291baead98fe66f02be89af232c83eab8a6c61f5206504839b18c60711ba  mux_s1/tests_faces.py
+e81ba9aed6fa8cb252be05108898d70e89d6437ba8fc3a30ff6c090de055017b  mux_s1_step2b_code.zip
+9b1581837ea3ebbed2013927118b6f0e512bd467ecfd6a0482dab457b8b0caa0  MUX_S1_step2b_faces.ipynb
+
+# ---- 2026-10-28T12:12:49.417811+00:00 (UTC): шаг 3 собран, до поста и до расчёта A и B ----
+# основной расчёт: замороженный verify_real.py dadcbd23..., realdata.py 87ca52f2..., core.py 116c27ff...
+# шаг 2b шёл с adapters.py 137b6911... (строгое прикрепление признаков); в шаге 3 adapters.py 100c6e67... (правило чтения 2)
+100c6e67f1dec7abafd8cd58eea0e6e31f6094ec2b3ea5ef253c9b617396edaa  mux_s1/adapters.py
+32e5655e9f6c9a1aedc2af9dbc664cd67e7a788abc760a6fe74014aa56ceb0c9  mux_s1/hesse_reader.py
+2c2773ba27de3696668aab0b3c418957140ae79bfafd64815faed0a364bed44c  mux_s1/faces.py
+816d6621771548e4968298ef7f627b62adba830ef02c6ce3448b95f92b0bb86d  mux_s1/feature_maps.npz
+175a29b37c1440180e9206961413b7a82cf06618b0793defbfda4cd70e76d355  mux_s1/tests_faces.py
+2663221353f5992814e1a2ced40cf30df59276522e89f220b156ab4824bc5bcf  verify_secondary.py
+40d04f255b2c35abf50fb22cc5d6d5408dbc95e7a0ef2b690c5f6a05e1bc86d9  mux_s1_step3_code.zip
+f97d5ea5013095fecf3dd8e7cb2b9bd02eccc35a63ca24d49aab6216394c0145  MUX_S1_step3_run.ipynb
+67487ec432dd9520f8943cb2d789e27a09285915ab8d3370fba2ed2df1d457a8  MUX-S1_v11_B_classes.md
+41603c25f30570ea3d6e262df618b079f772917ce16c0df9626c93e520fc9664  MUX-S1_v11_deviations.md
+
+# ---- 2026-10-28T14:46:29.636459+00:00 (UTC): поисковый прогон E-repeat, до запуска ----
+9d63f9088ae1890b9244f91d96f3b92637d721a8c285b09713b33f041c23154c  explore_repeat.py
+445c1ee6243c1be829be65ff49403faea00f3d94fb5f45926730a08a4eaea137  mux_s1_step4_code.zip
+acc744f45f1a5f588d7284c55085fbf484475e93c7c60c1d31e80722071a66c3  MUX_S1_step4_explore.ipynb
+d99032fcb884a8a3d56439e788abd625826401fe34004ddd803d096a68694c6a  MUX-S1_v11_deviations.md
+ae66c860ebfba59460965e86658c19dba7cbc2e22b5d54a500800ce4a1b21ebd  results/real/mux_s1_v11_results_32e5655e9f6c.zip
+
+# ---- 2026-10-28T15:00:06.799367+00:00 (UTC): итог 1.1 ----
+eb75e093b00a33cc21a73a89ccf9e5e3df03c5fe46f74d0daebd1d705cda8808  MUX-S1_v11_results.md
+e3903aa1cf33cdf3ed55ea89a53fc9e7855f25c51bbb7041f2d1cbf3771ef404  MUX-S1_v11_deviations.md
+0cc710b3056dd0f278d121ed2884bcb2bdb5f68b2ba91bba1d89d49be707c140  results/real/explore/explore_repeat.json
+10775525333b13696f5db5ee4e5c096eff5eaeaeb7ce1d22f4b16a6c82806b27  results/real/explore/explore_log.txt
+8bbdfdd9b5489a3bc21e4d823502e3f232608f6a68e7f5618b047f982823258a  results/real/explore/injections.json
+
+# ---- 2026-10-28T15:49:51.933320+00:00 (UTC): после внешнего разбора: B6 признан вырожденным, интерпретации B2/B5/B11 ограничены ----
+96be794085e437acfcf34a0235f6f887de1afca9441c28760f13ea309ab3f3a6  MUX-S1_v11_results.md
+d3bf67c89b1dda3117031a1b94f94ad95fa6ced828034cd8b9db646c315e7a8f  MUX-S1_v11_deviations.md
+874d3b8576c7bb83b22788b09a11e390779e60e2fa6ddf3362dd2e23f952ac82  MUX-S1_v11_B_classes.md
+
+# ---- 2026-10-28T16:04:45.398808+00:00 (UTC): второй круг разбора, правки формулировок в отчёте ----
+f0d7b5f01a03c0833b8c4048977d82019be7aa62c4c29d9bbfd81e20f19c3a07  MUX-S1_v11_results.md
+
+# ---- 2026-10-28T16:09:53.374850+00:00 (UTC): третий круг: «поломка меток» переведена в предположение ----
+7248850f2b29c3a7034d54bdfa4e657de4757fae74b2eea4f3368469461cdc7a  MUX-S1_v11_results.md

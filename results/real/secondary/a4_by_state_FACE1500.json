@@ -1,0 +1,30 @@
+{
+ "curve": {
+  "10": {
+   "state1_ms": 30.0,
+   "state2_ms": 40.0,
+   "pooled_ms": 30.0
+  },
+  "20": {
+   "state1_ms": 40.0,
+   "state2_ms": 60.0,
+   "pooled_ms": 60.0
+  },
+  "50": {
+   "state1_ms": 100.0,
+   "state2_ms": 150.0,
+   "pooled_ms": 100.0
+  },
+  "max_rel_dev_state1_ms": 0.5169082125603864,
+  "max_rel_dev_state2_ms": 0.355877616747182,
+  "max_rel_dev_pooled_ms": 0.5169082125603864
+ },
+ "target": {
+  "5": 59.6,
+  "10": 62.1,
+  "20": 77.1,
+  "50": 110.8
+ },
+ "threshold": 0.25,
+ "seconds": 76.4
+}

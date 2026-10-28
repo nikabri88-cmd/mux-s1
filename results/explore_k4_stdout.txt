@@ -1,0 +1,22 @@
+00:38:46 M1_rhythm 0 {'raw': 1.34, 'scaled': -2.32, 'truth': -1.71} 22.5 s
+00:38:48 M0_markov 0 {'raw': 1.19, 'scaled': -1.83, 'truth': -1.7} 23.9 s
+00:39:09 M1b_rhythm_k3 0 {'raw': -0.09, 'scaled': -2.14, 'truth': -1.71} 22.5 s
+00:39:15 M2_cont_unimodal 0 {'raw': -0.11, 'scaled': -30.14, 'truth': -0.73} 26.8 s
+00:39:34 M3_cont_bimodal 0 {'raw': 1.95, 'scaled': -3.34, 'truth': -1.27} 25.0 s
+00:39:37 M6_heterogeneous 0 {'raw': 0.73, 'scaled': -0.99, 'truth': -1.57} 22.5 s
+00:40:00 M0_markov 1 {'raw': 0.55, 'scaled': -1.41, 'truth': -1.7} 22.4 s
+00:40:20 M7_ring 0 {'raw': 1.54, 'scaled': -1.78, 'truth': -1.61} 46.0 s
+00:40:21 M1_rhythm 1 {'raw': 0.8, 'scaled': -1.81, 'truth': -1.71} 21.7 s
+00:40:41 M1b_rhythm_k3 1 {'raw': 0.32, 'scaled': -1.27, 'truth': -1.72} 21.3 s
+00:40:46 M2_cont_unimodal 1 {'raw': -6.26, 'scaled': -0.19, 'truth': -0.73} 24.8 s
+00:41:06 M3_cont_bimodal 1 {'raw': 1.62, 'scaled': -1.22, 'truth': -1.27} 24.9 s
+00:41:09 M6_heterogeneous 1 {'raw': 1.04, 'scaled': -1.4, 'truth': -1.55} 22.5 s
+00:41:31 M0_markov 2 {'raw': 0.96, 'scaled': -1.39, 'truth': -1.7} 22.4 s
+00:41:52 M7_ring 1 {'raw': 0.73, 'scaled': -1.67, 'truth': -1.62} 46.1 s
+00:41:54 M1_rhythm 2 {'raw': 2.02, 'scaled': -1.98, 'truth': -1.71} 22.7 s
+00:42:15 M1b_rhythm_k3 2 {'raw': 0.51, 'scaled': -1.8, 'truth': -1.71} 22.5 s
+00:42:20 M2_cont_unimodal 2 {'raw': 9.23, 'scaled': -2.44, 'truth': -0.73} 26.2 s
+00:42:39 M3_cont_bimodal 2 {'raw': 5.14, 'scaled': 0.09, 'truth': -1.26} 24.3 s
+00:42:42 M6_heterogeneous 2 {'raw': 0.63, 'scaled': -1.45, 'truth': -1.57} 22.5 s
+00:43:23 M7_ring 2 {'raw': 0.81, 'scaled': -2.11, 'truth': -1.61} 44.2 s
+done explore_k4

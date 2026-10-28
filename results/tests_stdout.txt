@@ -1,0 +1,15 @@
+ok test_decoder_lofo
+ok test_fit_D_exponential
+ok test_forward_scaled_bruteforce
+ok test_gamma_mean_and_balance
+ok test_hmm_recovers_T
+ok test_lofo_linear
+ok test_masked_rate
+ok test_quarter_kurtosis_telegraph
+ok test_rate_equations
+ok test_telegraph_dwell
+ok test_tls
+ok test_viterbi_batch_matches_single
+ok test_viterbi_bruteforce
+all 13 tests passed
+exit 0
