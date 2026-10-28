@@ -1,12 +1,14 @@
 # MUX-S1: what do the data of Hesse et al. (2026) draw?
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23738757.svg)](https://doi.org/10.5281/zenodo.23738757)
+
 A pre-registered study of the population dynamics behind the rapid alternation of "conscious" and
 "suppressed" micro-epochs reported by Hesse, Lanfranchi, McGrory, Shi, Engel and Tsao
 (bioRxiv [10.64898/2026.10.15.759299](https://doi.org/10.64898/2026.10.15.759299), posted 16 October 2026)
 in macaque face patches during binocular flash suppression.
 
 Authors: Julia Ryzhkova (Siriona, siriona.one; ORCID 0009-0005-4194-6059) and Claude (Anthropic).
-Status: version 1.1 complete, 28 October 2026.
+Status: version 1.1 complete, 28 October 2026. Archived on Zenodo: https://doi.org/10.5281/zenodo.23738757 (release v1.1.0).
 
 ## Two versions
 
